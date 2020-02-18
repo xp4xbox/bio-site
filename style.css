@@ -89,7 +89,7 @@ h3,p,.btn,a{
 }
 
 
-.bgc-mikado-yellow{
+.bgc-mikado-grey{
 	background-color:#EFEFEF;
 }
 .bgc-white{
@@ -101,11 +101,11 @@ h3,p,.btn,a{
 }
 
 .btn-sinopia{
-	background:#DB3A17;
+	background:#FC5200;
 	color:#FFFFFF!important;
 }
 .btn-sinopia:hover{
-	background:#af2e12;
+	background:#E34A00;
 	color:#FFFFFF!important;
 }
 
